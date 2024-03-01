@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NihalShaikh07
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m Currently pursuing my Bachelor's degree in Computer Science, I'm dedicated to honing my skills and exploring new domains within the field..
 - 💞️ I’m looking to collaborate on making projects and some fun with coding..
 
 <!---
